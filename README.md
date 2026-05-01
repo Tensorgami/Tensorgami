@@ -1,14 +1,14 @@
 # Tensorgami
 
-I maintain [Tensorgami](https://tensorgami.github.io), a public archive for
-mathematical expositions, proof notes, problem sets, and Lean-checked
+[Tensorgami](https://tensorgami.github.io) is my public archive of
+mathematical writing: expository notes, proof notes, problem sets, and Lean
 formalizations.
 
-Proof-focused entries often pair a PDF exposition with Lean source files and
-automated checks, so readers can inspect both the written argument and the
-formal verification.
+The emphasis is on arguments that are readable, inspectable, and worth
+preserving. Some entries pair the PDF exposition with Lean source files and
+automated checks.
 
-For background and external references, see the
+For background and related links, see the
 [About page](https://tensorgami.github.io/about.html).
 
 Current interests include analysis, number theory, combinatorics, algebraic
