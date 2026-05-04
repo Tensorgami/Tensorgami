@@ -1,12 +1,11 @@
 # Henry Shin
 
-I use [Tensorgami](https://tensorgami.com) as a public archive for
-mathematical writing: expository notes, proof notes, problem sets, and Lean
-formalizations.
+I use [Tensorgami](https://tensorgami.com) as a public mathematical workbench
+for expository notes, proof notes, problem sets, and Lean formalizations.
 
-The emphasis is on arguments that are readable, inspectable, and worth
-preserving. Some entries pair the PDF exposition with Lean source files and
-automated checks.
+The emphasis is on mechanism-level mathematics: explicit reductions, normal
+forms, concrete decompositions, finite certificates, algorithmic structure, and
+formal verification when it clarifies the argument.
 
 For background and related links, see the
 [About page](https://tensorgami.com/about.html) and my
@@ -15,4 +14,5 @@ For background and related links, see the
 Contact: [hkshin@alumni.harvard.edu](mailto:hkshin@alumni.harvard.edu).
 
 Current interests include analysis, number theory, combinatorics, algebraic
-geometry, abstract algebra, and formalized mathematics.
+geometry, abstract algebra, and formalized mathematics, with an emphasis on
+explicit proof mechanisms.
