@@ -1,11 +1,12 @@
 # Henry Shin
 
 I use [Tensorgami](https://tensorgami.com) as a public mathematical workbench
-for expository notes, proof notes, problem sets, and Lean formalizations.
+for original proof notes, expository reconstructions, problem sets, and Lean
+formalizations.
 
-The emphasis is on mechanism-level mathematics: explicit reductions, normal
-forms, concrete decompositions, finite certificates, algorithmic structure, and
-formal verification when it clarifies the argument.
+Some entries record new arguments, extraction formulas, or finite
+certificates; others rebuild known results to make the mechanism explicit. Lean
+is used selectively when formal verification clarifies the argument.
 
 For background and related links, see the
 [About page](https://tensorgami.com/about.html) and my
